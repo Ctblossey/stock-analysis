@@ -9,17 +9,17 @@
 ### Analysis of 2017
 
 - ###
-- ![](https://github.com/Ctblossey/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+- ![](https://github.com/Ctblossey/stock-analysis/blob/main/Resources/2017_Data.png)
     
-- [VBA Challenge 2017](https://github.com/Ctblossey/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+- [VBA Challenge 2017 Run Time](https://github.com/Ctblossey/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 ### Analysis of 2018
 
 - ###
 
-- ![](https://github.com/Ctblossey/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+- ![](https://github.com/Ctblossey/stock-analysis/blob/main/Resources/2018_Data.png)
     
-- [VBA Challenge 2018](https://github.com/Ctblossey/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+- [VBA Challenge 2018 Run Time](https://github.com/Ctblossey/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 
 ## Summary
