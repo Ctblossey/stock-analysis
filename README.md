@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### The purpose of [this project](https://github.com/Ctblossey/stock-analysis) is to take a deep dive into the stock market and bringing the raw data to life. 
+### The purpose of [this project](https://github.com/Ctblossey/stock-analysis) is to take a deep dive into the stock market and bringing the raw data to life. Within the [data](https://github.com/Ctblossey/stock-analysis/blob/main/VBA_Challenge.xlsm) you can see that there is a lot of good data but not a lot of explaining. Through the work of the VBA code, we were able to refactor the code to efficiently display each of the tickers along with their volume and return. It is very important to explain the data and show its impact.
 
 ## Results
 
